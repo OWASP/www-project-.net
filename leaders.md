@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Bill Sempf](bill.sempf@owasp.org)
+* [Bill Sempf](mailto://bill.sempf@owasp.org)

@@ -9,6 +9,7 @@ auto-migrated: 1
 
 ---
 
+Please visit our Page Migration Guide for more information about updating pages for the new website as well as examples of github markdown.
 
 <!-- Standard Chapter Page Template
 Please do not provide link-backs to the OWASP wiki. 

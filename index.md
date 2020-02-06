@@ -2,14 +2,13 @@
 
 layout: col-sidebar
 title: OWASP .Net
-tags: example-tag
+tags: 
 level: 0
 type: documentation
 auto-migrated: 1
 
 ---
 
-Please visit our Page Migration Guide for more information about updating pages for the new website as well as examples of github markdown.
 
 <!-- Standard Chapter Page Template
 Please do not provide link-backs to the OWASP wiki. 

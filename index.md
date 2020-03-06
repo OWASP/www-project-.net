@@ -9,19 +9,17 @@ auto-migrated: 1
 
 ---
 
+The OWASP.NET Project is the clearinghouse for all information related to building secure .NET web applications and services. The goal of the project is to provide deep content for all roles related to .NET web applications and services.
 
-<!-- Standard Chapter Page Template
+The focus of the project is on guidance for developers using the framework, OWASP Components that use .NET, and participation in OWASP projects that use .NET. While the remainder of the pages are completed, here are the current articles:
 
-Please do not provide link-backs to the OWASP wiki. 
+(https://owasp.org/www-project-cheat-sheets/cheatsheets/DotNet_Security_Cheat_Sheet)[The .NET Security Cheat Sheet]
+(articles/Exception_Handling.md)[Exception Handling]
+(articles/Request_Validation.md)[ASP.NET Request Validation]
+(articles/Output_Encoding.md)[ASP.NET Output Encoding]
+(articles/Using_Rfc2898DeriveBytes_For_PBKDF2.md)[Using Rfc2898DeriveBytes for PBKDF2]
+(articles/Anti_CSRF_Tokens.md)[Anti CSRF Tokens ASP.NET]
+(articles/Two_Factor_Authentication.md)[Adding two-factor authentication to ASP.NET]
 
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We are still migrating the project to Markdown.  There is a link to the original page on the homepage, but we are no longer allowed to link to it.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
--->

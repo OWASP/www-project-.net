@@ -4,3 +4,4 @@ env
 /.vs/www-project-.net/v16/.suo
 /.vs/slnx.sqlite
 _site
+/Gemfile.lock
